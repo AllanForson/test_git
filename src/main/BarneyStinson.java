@@ -8,4 +8,8 @@ public class BarneyStinson {
         System.out.println("Back in the game now, got me some weight");
 
     }
+    
+    public void conflictsEnCrimea(){
+        System.out.println("Billion dollar mansions");
+    }
 }
