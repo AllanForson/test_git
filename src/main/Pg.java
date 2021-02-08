@@ -9,4 +9,8 @@ public class Pg {
 	public void allan() {
 		System.out.println("moi");
 	}
+	
+	public void allan2() {
+		System.out.println("clone");
+	}
 }
