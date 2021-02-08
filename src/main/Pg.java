@@ -13,4 +13,8 @@ public class Pg {
 	public void allan2() {
 		System.out.println("clone");
 	}
+	
+	public void master() {
+		System.out.println("a");
+	}
 }
