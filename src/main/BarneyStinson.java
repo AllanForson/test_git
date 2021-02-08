@@ -1,3 +1,5 @@
+package main;
+
 public class BarneyStinson {
 
     public void afficheRiche(){
@@ -6,6 +8,9 @@ public class BarneyStinson {
     
     public void wuTangPhraseGenerator(){
         System.out.println("Back in the game now, got me some weight");
-
+    }
+    
+    public void affiche() {
+    	System.out.println("i'm something");
     }
 }
